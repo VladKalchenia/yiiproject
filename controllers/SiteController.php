@@ -1,7 +1,7 @@
 <?php
 
 namespace app\controllers;
-1231231231231231
+
 use app\models\SignupForm;
 use Yii;
 use yii\filters\AccessControl;
